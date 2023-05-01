@@ -20,6 +20,6 @@ features:
   - title: Build in Public
     details: We want to build the product the S3 community wants.
   - title: Hosted Option
-    details: OpenSociocracy along with our sponsors will offer a hosted Saas solution.
+    details: OpenSociocracy will offer a hosted Saas solution.
 ---
 
