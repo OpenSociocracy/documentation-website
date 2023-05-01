@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "OpenSociocracy"
-  text: "Documentation on how to get the most out of Open Sociocracy tools "
-  tagline: My great project tagline
+  name: "Open Sociocracy"
+  text: "Better decisions through better tools"
+  tagline: "Open source tools for Sociocracy 3.0"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get the code
+      link: https://github.com/OpenSociocracy/open-sociocracy-saas
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: User Manual
+      link: /user-manual
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Open Source
+    details: All the code for OpenSociocracy is free and open source.
+  - title: Build in Public
+    details: We want to build the product the S3 community wants.
+  - title: Hosted Option
+    details: OpenSociocracy along with our sponsors will offer a hosted Saas solution.
 ---
 
