@@ -1,0 +1,31 @@
+{
+  "name": "opensociocracy-documentation-website",
+  "version": "1.0.0",
+  "description": "Documents on how to use OpenSociacracy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSociocracy/documentation-website.git"
+  },
+  "keywords": [
+    "Sociocracy",
+    "3.0",
+    "S3",
+    "Sociocracy"
+  ],
+  "author": "Brian Winkers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenSociocracy/documentation-website/issues"
+  },
+  "homepage": "https://github.com/OpenSociocracy/documentation-website#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.75"
+  }
+}

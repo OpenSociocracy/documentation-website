@@ -1,2 +1,5 @@
-# documentation-website
-The standalone documentation site for Open Sociocracy
+# Sociocracy Documentation site
+
+Documentation for the Open Sociocracy website.
+
+
