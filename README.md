@@ -1,4 +1,4 @@
-# Sociocracy Documentation site
+# Open Sociocracy Documentation site
 
 Documentation for the Open Sociocracy website.
 
