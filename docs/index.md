@@ -9,17 +9,17 @@ hero:
   actions:
     - theme: brand
       text: Get the code
-      link: https://github.com/OpenSociocracy/open-sociocracy-saas
+      link: https://github.com/Open Sociocracy/open-sociocracy-saas
     - theme: alt
       text: User Manual
       link: /user-manual
 
 features:
   - title: Open Source
-    details: All the code for OpenSociocracy is free and open source.
+    details: All the code for Open Sociocracy is free and open source.
   - title: Build in Public
     details: We want to build the product the S3 community wants.
   - title: Hosted Option
-    details: OpenSociocracy will offer a hosted Saas solution.
+    details: Open Sociocracy will offer a hosted Saas solution.
 ---
 

@@ -1,4 +1,4 @@
-# Self-Hosting - Running your own OpenSociocracy server
+# Self-Hosting - Running your own Open Sociocracy server
 
 ## Prerequisites
 

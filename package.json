@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenSociocracy/documentation-website.git"
+    "url": "git+https://github.com/Open Sociocracy/documentation-website.git"
   },
   "keywords": [
     "Sociocracy",
@@ -22,9 +22,9 @@
   "author": "Brian Winkers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenSociocracy/documentation-website/issues"
+    "url": "https://github.com/Open Sociocracy/documentation-website/issues"
   },
-  "homepage": "https://github.com/OpenSociocracy/documentation-website#readme",
+  "homepage": "https://github.com/Open Sociocracy/documentation-website#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.75"
   }
