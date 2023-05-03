@@ -1,1 +1,1 @@
-# Joining an Open Sociocracy Server
+# Joining an OpenSociocracy Server

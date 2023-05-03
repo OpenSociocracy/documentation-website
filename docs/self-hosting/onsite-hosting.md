@@ -1,1 +1,1 @@
-# Internal Hosting of Open Sociocracy
+# Internal Hosting of OpenSociocracy
