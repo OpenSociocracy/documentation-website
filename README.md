@@ -1,5 +1,5 @@
-# Open Sociocracy Documentation site
+# OpenSociocracy Documentation site
 
-Documentation for the Open Sociocracy website.
+Documentation for the OpenSociocracy website.
 
 
