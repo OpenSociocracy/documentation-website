@@ -35,7 +35,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/orgs/OpenSociocracy' }
+      { icon: 'github', link: 'https://github.com/orgs/OpenSociocracy' },
+      { icon: 'discord', link: 'https://discord.com/channels/1103176560699260938/1103176560699260941'}
+
     ]
   }
 })
