@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "OpenSociocracy"
-  text: "Help us build the tools you need"
-  tagline: "Open source tools for Sociocracy 3.0"
+  text: "Help us build tools for the S3 community"
+  tagline: "Using S3 practices to create S3 tools"
   actions:
     - theme: brand
       text: Get the code
@@ -22,4 +22,3 @@ features:
   - title: Hosted Option
     details: OpenSociocracy will offer a hosted Saas solution.
 ---
-
