@@ -1,0 +1,11 @@
+# OpenSociocracy Local development
+
+## Prerequisites
+
+```bash
+npm install --global yarn
+yarn global add @quasar/cli
+```
+
+Install Docker.
+
