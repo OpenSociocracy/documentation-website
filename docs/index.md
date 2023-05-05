@@ -22,4 +22,3 @@ features:
   - title: Hosted Option
     details: OpenSociocracy will offer a hosted Saas solution.
 ---
-

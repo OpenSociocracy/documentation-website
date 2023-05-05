@@ -11,6 +11,8 @@ export default defineConfig({
       { text: 'The Project', link: '/about-us/' },
       { text: 'Quick Start', link: '/quick-start/' },
       { text: 'User Manual', link: '/user-manual/' }
+      { text: 'User Manual', link: '/user-manual/' },
+      { text: 'Contributing', link: '/contributing/' }
     ],
 
     sidebar: [
