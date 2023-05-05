@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "OpenSociocracy"
-  text: "Help us build tools for the S3 community"
+  text: "Help us build community tools"
   tagline: "Using S3 practices to create S3 tools"
   actions:
     - theme: brand
