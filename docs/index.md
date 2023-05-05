@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "OpenSociocracy"
-  text: "Help us build the tools you need"
+  text: "Help us build the tools we all need"
   tagline: "Open source tools for Sociocracy 3.0"
   actions:
     - theme: brand

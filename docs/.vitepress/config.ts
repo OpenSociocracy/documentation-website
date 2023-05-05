@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Quick Start', link: '/quick-start/' },
       { text: 'User Manual', link: '/user-manual/' }
     ],
 
@@ -36,8 +37,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/orgs/OpenSociocracy' },
-
-      { icon: 'discord', link: 'https://discord.com/channels/1103176560699260938/1103176560699260941'}
+      // { icon: 'discord', link: 'https://discord.gg/seExDy6M'},
+      { icon: 'twitter', link: 'https://twitter.com/OpenSociocracy'},
+      { icon: 'facebook', link: 'https://www.facebook.com/OpenSociocracy/'},
+      { icon: 'mastodon', link: 'https://fosstodon.org/@opensociocracy'}
     ]
   }
 })
