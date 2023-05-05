@@ -2,6 +2,12 @@
 
 Thee are guides to help you quickly start implementing S3 in some of the most popular areas.
 
+## Define an Organization
+
+This quick start provides an excercise and worksheet to define your groups. You can then use {name of wills tool>} to create organizational diagrams.
+
+[Get started](/quick-start/define-organizations/)
+
 ## Decision Making
 
 * A "one page" training doc
