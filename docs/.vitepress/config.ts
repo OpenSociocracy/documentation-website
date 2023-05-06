@@ -11,6 +11,7 @@ export default defineConfig({
       { text: "The Project", link: "/about-us/" },
       { text: "Quick Start", link: "/quick-start/" },
       { text: "Contributing", link: "/contributing/" },
+      { text: "Self Hosting", link: "/self-hosting/" },
     ],
 
     sidebar: {
