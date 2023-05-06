@@ -4,15 +4,16 @@ layout: home
 
 hero:
   name: "OpenSociocracy"
-  text: "Help us build community tools"
+  text: "Help us build in public"
   tagline: "Using S3 practices to create S3 tools"
   actions:
+
     - theme: brand
+      text: Quick Starts
+      link: /quick-start/
+    - theme: alt
       text: Get the code
       link: https://github.com/OpenSociocracy/open-sociocracy-saas
-    - theme: alt
-      text: User Manual
-      link: /user-manual
 
 features:
   - title: Open Source

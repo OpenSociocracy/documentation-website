@@ -4,6 +4,11 @@ Documentation for the OpenSociocracy website.
 
 ## Local setup
 
+### Install Depenedencies
+
+[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+[Git HubFlow](https://githubflow.github.io/)
+
 ### Step 1. Install modules
 
 Install from root directory
@@ -30,8 +35,8 @@ example for a feature named *foo*
 git hf feature start foo
 ```
 
-Do you work, pushing up to GiutHub to share.
+Do your work, pushing up to GitHub to share.
 
-When it is ready create a PR.
+When it is ready create a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 
