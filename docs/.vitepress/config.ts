@@ -54,7 +54,7 @@ export default defineConfig({
             { text: "Defining Organizations", link: "/quick-start/defining-s3-organizations/" },
             { text: "Decision Making", link: "/quick-start/using-s3-for-decision-making/" },
             { text: "Defining Domains", link: "/quick-start/defining-s3-domains/" },
-            { text: "Peer Review", link: "/quick-start/s3-peer-review/" },
+            { text: "Peer Review", link: "/quick-start/s3-peer-reviews/" },
           ],
         },
       ],
