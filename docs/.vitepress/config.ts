@@ -7,11 +7,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
       { text: "The Project", link: "/about-us/" },
       { text: "Quick Start", link: "/quick-start/" },
-      { text: "Contributing", link: "/contributing/" },
-      { text: "Self Hosting", link: "/self-hosting/" },
+      { text: "Contribute", link: "/contributing/" },
+      { text: "Hosting", link: "/self-hosting/" },
     ],
 
     sidebar: {
