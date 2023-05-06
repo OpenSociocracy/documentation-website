@@ -6,4 +6,4 @@ You can use our [exercise](/quick-start/defining-s3-organizations/s3-organizatio
 
 If you are past the quick start phase or it isn't working for you, reach out in our [learning community](https://community.sociocracy30.org/) or consider taking a [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/) course. 
 
-To help organize your S3 documents and relate them to domains and drivers we suggest our very own [S3 Logbook](logbook.).
+To help organize your S3 documents and relate them to domains and drivers we suggest our very own [S3 Logbook](https://logbook.opensociocracy.org).
