@@ -58,6 +58,15 @@ export default defineConfig({
           ],
         },
       ],
+      "/about-us/": [
+        {
+          text: "Background",
+          items: [
+            { text: "Open Source", link: "/about-us/why-use-open-source/" },
+            { text: "Build in Public", link: "/about-us/why-build-in-public/" },
+          ],
+        },
+      ],
     },
 
     socialLinks: [
@@ -67,5 +76,10 @@ export default defineConfig({
       { icon: "facebook", link: "https://www.facebook.com/OpenSociocracy/" },
       { icon: "mastodon", link: "https://fosstodon.org/@opensociocracy" },
     ],
+
+    footer: {
+      message: 'Sponsored by "an S3 org name" and "a funding org name"',
+      copyright: 'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> and <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE">AGPL</a> License</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>'
+    }
   },
 });
