@@ -1,6 +1,6 @@
 # Kickstart Your S3 Effort
 
-Thee are guides to help you quickly start implementing S3 in some of the most popular areas.
+These are guides to help you quickly start implementing S3 in some of the most popular areas.
 
 ## Define an Organization
 
