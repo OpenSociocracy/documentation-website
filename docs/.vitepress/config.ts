@@ -51,10 +51,11 @@ export default defineConfig({
         {
           text: "Quick Starts",
           items: [
-            { text: "Defining Organizations", link: "/quick-start/defining-s3-organizations/" },
-            { text: "Decision Making", link: "/quick-start/using-s3-for-decision-making/" },
-            { text: "Defining Domains", link: "/quick-start/defining-s3-domains/" },
-            { text: "Peer Review", link: "/quick-start/s3-peer-reviews/" },
+            { text: "Organization Domains", link: "/quick-start/defining-s3-organization-domains/" },
+            { text: "Consent Decision Making", link: "/quick-start/using-s3-for-decision-making/" },
+            // { text: "Defining Domains", link: "/quick-start/defining-s3-domains/" },
+            { text: "Peer Reviews", link: "/quick-start/s3-peer-reviews/" },
+            { text: "Keeping a Logbook", link: "/quick-start/keeping-an-s3-logbook/" }
           ],
         },
       ],

@@ -1,2 +1,2 @@
-# S3 Empowered Decisions
+# Consent Decision Making with S3
 
