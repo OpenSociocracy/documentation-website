@@ -10,7 +10,7 @@ export default defineConfig({
       { text: "The Project", link: "/about-us/" },
       { text: "Quick Start", link: "/quick-start/" },
       { text: "Contribute", link: "/contributing/" },
-      { text: "Hosting", link: "/self-hosting/" },
+      //{ text: "Hosting", link: "/self-hosting/" },
     ],
 
     sidebar: {
