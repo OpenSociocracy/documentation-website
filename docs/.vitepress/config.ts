@@ -10,7 +10,7 @@ export default defineConfig({
       { text: "The Project", link: "/about-us/" },
       { text: "Quick Start", link: "/quick-start/" },
       { text: "Contribute", link: "/contributing/" },
-      { text: "Hosting", link: "/self-hosting/" },
+      //{ text: "Hosting", link: "/self-hosting/" },
     ],
 
     sidebar: {
@@ -79,7 +79,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Sponsored by "an S3 org name" and "a funding org name"',
+      message: 'Sponsored by "S3 org name" and "funding org name"',
       copyright: 'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> and <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE">AGPL</a> License</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>'
     }
   },
