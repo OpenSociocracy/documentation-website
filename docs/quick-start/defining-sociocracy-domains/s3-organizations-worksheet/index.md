@@ -1,4 +1,4 @@
-# S3 Organizations Worksheet
+# Sociocracy Organizations Worksheet
 
 Enter the organization name, main driver and primary contact in this  worksheet.
 

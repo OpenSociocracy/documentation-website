@@ -1,1 +1,1 @@
-# Defining Domains in S3
+See [Organization Domains]('/quick-start/defining-sociocracy-domains/')

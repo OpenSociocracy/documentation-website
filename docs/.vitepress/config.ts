@@ -51,11 +51,11 @@ export default defineConfig({
         {
           text: "Quick Starts",
           items: [
-            { text: "Organization Domains", link: "/quick-start/defining-s3-organization-domains/" },
-            { text: "Consent Decision Making", link: "/quick-start/using-s3-for-decision-making/" },
-            // { text: "Defining Domains", link: "/quick-start/defining-s3-domains/" },
-            { text: "Peer Reviews", link: "/quick-start/s3-peer-reviews/" },
-            { text: "Keeping a Logbook", link: "/quick-start/keeping-an-s3-logbook/" }
+            { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
+            { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
+            { text: "Make Decisions", link: "/quick-start/using-sociocracy-for-decision-making/" },
+            // { text: "Defining Domains", link: "/quick-start/defining-sociocracy-domains/" },
+            { text: "Use Peer Reviews", link: "/quick-start/sociocracy-peer-reviews/" }
           ],
         },
       ],
@@ -63,8 +63,10 @@ export default defineConfig({
         {
           text: "Background",
           items: [
+            { text: "Who We Are", link: "/about-us/" },
             { text: "Open Source", link: "/about-us/why-use-open-source/" },
             { text: "Build in Public", link: "/about-us/why-build-in-public/" },
+            { text: "Glossary", link: "/about-us/glossary/" },
           ],
         },
       ],
