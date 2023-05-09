@@ -1,1 +1,1 @@
-See [Organization Domains]('/quick-start/defining-sociocracy-domains/')
+See [Organization Domains](/quick-start/defining-sociocracy-domains/)

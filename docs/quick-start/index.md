@@ -8,7 +8,7 @@ Logbooks store all information relevant for running an organization and its team
 
 We provide example logbooks to get you started.
 
-[Get started](/quick-start/keeping-an-sociocracy-logbook/)
+[Get started](/quick-start/keeping-a-sociocracy-logbook/)
 
 
 ## Define Domains - Structure Your Organization
