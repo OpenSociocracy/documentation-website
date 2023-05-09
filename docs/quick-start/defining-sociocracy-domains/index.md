@@ -4,7 +4,7 @@ Using Sociocracy 3.0 helps you figure out how to meet your organization’s bigg
 
 ## Structure Your Organization
 
-You can use our [exercise](/quick-start/defining-s3-organization-domains/s3-organizations-team-exercise/) to fill out an [Organization Canvas](https://s3canvas.sociocracy30.org/pdf/s3-organization-canvas.pdf) and [spreadsheet](https://docs.google.com/spreadsheets/d/1uIB5RZXWxsrXSBqylEU2hYgp2rDwoXnXFD7qgBBWHuM/edit?usp=sharing) to easily create an [organizational diagram](/quick-start/defining-s3-organization-domains/s3-circle-builder/) using [Circle Builder](/circle-builder/).
+You can use our [exercise](/quick-start/defining-sociocracy-domains/sociocracy-organizations-team-exercise/) to fill out an [Organization Canvas](https://s3canvas.sociocracy30.org/pdf/s3-organization-canvas.pdf) and [spreadsheet](https://docs.google.com/spreadsheets/d/1uIB5RZXWxsrXSBqylEU2hYgp2rDwoXnXFD7qgBBWHuM/edit?usp=sharing) to easily create an [organizational diagram](/quick-start/defining-sociocracy-domains/sociocracy-circle-builder/) using [Circle Builder](/circle-builder/).
 
 If you are past the quick start phase or it isn't working for you, reach out in our [learning community](https://community.sociocracy30.org/) or consider taking a [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/) course.
 

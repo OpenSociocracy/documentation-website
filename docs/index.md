@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "OpenSociocracy"
   text: "Help us build in public"
-  tagline: "Using S3 practices to create S3 tools"
+  tagline: "Using Sociocracy practices to create Sociocracy tools"
   actions:
 
     - theme: brand
@@ -19,7 +19,7 @@ features:
   - title: Open Source
     details: All the code for OpenSociocracy is free and open source.
   - title: Build in Public
-    details: We want to build the product the S3 community wants.
+    details: We want to build the product the Sociocracy community wants.
   - title: Hosted Option
     details: OpenSociocracy will offer a hosted Saas solution.
 ---

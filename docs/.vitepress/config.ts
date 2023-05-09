@@ -81,8 +81,12 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Sponsored by "S3 org name" and "funding org name"',
+      message: 'Sponsored by "Sociocracy org name" and "funding org name"',
       copyright: 'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> and <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE">AGPL</a> License</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/OpenSociocracy/documentation-website/tree/main/docs/:path'
     }
   },
 });
