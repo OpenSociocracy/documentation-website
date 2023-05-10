@@ -1,9 +1,13 @@
 # The OpenSociocracy Project
 
-We want to create [open source](/why-use-open-source/) Sociocracy tools using Sociocracy practices and a "[build in public](/why-build-in-public/)" process.  The project was started May 1 2023 by [Brian Winkers](https://www.linkedin.com/in/bwinkers/) to make it easier to use Sociocracy in software projects.
+The OpenSociocracy project was started May 1, 2023 by developers at a small tech co-op that were struggling get their own internal Sociocracy projects kicked off. We're releasing the code as [open source](/about-us/why-use-open-source/) and developing the product using a [build in public](/about-us/why-build-in-public/) process.
 
-## Who we are
+It is an all volunteer effort, the developers are donating their time and hosting resources.
 
-[Brian Winkers](https://www.linkedin.com/in/bwinkers/) has been the primary architect and builder of multiple web applications for ISP, telcos, financial institutions, government agencies, manufacturing companies and ecommerce startups. He has always released his personal projects as open source.
+[Meet out Team Members](/about-us/team/)
 
-[Will Stedden](https://will.stedden.org) likes to work on lots of things.  His passions for economic democracy and getting stuff done made Open Sociocracy seem like a great project to support.
+Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/pawVfw43).
+
+
+
+

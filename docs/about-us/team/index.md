@@ -12,7 +12,7 @@ const members = [
   {
     avatar: 'https://handbook.opensociocracy.org/team/brian.jpg',
     name: 'Brian Winkers',
-    title: 'Creator',
+    title: 'Founding Member',
     links: [
       { icon: 'github', link: 'https://github.com/bwinkers' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/bwinkers/' }
