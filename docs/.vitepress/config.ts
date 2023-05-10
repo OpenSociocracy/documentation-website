@@ -63,7 +63,7 @@ export default defineConfig({
         {
           text: "Background",
           items: [
-            { text: "Who We Are", link: "/about-us/" },
+            { text: "Who We Are", link: "/about-us/team/" },
             { text: "Open Source", link: "/about-us/why-use-open-source/" },
             { text: "Build in Public", link: "/about-us/why-build-in-public/" },
             { text: "Glossary", link: "/about-us/glossary/" },
@@ -86,7 +86,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/OpenSociocracy/documentation-website/edit/main/docs/:path'
+      pattern: 'https://github.com/OpenSociocracy/documentation-website/tree/main/docs/:path'
     }
   },
 });
