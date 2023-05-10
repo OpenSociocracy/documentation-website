@@ -5,6 +5,7 @@ export default defineConfig({
   title: "OpenSociocracy",
   description: "Open Source Sociocracy 3.0 Tools",
   themeConfig: {
+    logo: 'logo_light.jpg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "The Project", link: "/about-us/" },
