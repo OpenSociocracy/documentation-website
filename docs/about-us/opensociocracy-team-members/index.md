@@ -18,6 +18,15 @@ const members = [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/bwinkers/' }
     ]
   },
+  {
+    avatar: 'https://handbook.opensociocracy.org/team/will.png',
+    name: 'Will Stedden',
+    title: 'Founding Member',
+    links: [
+      { icon: 'github', link: 'https://github.com/OpenSociocracy/' },
+      { icon: 'website', link: 'https://will.stedden.org' }
+    ]
+  },
 ]
 </script>
 
@@ -27,8 +36,7 @@ const members = [
       Our Team
     </template>
     <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
+      The development of OpenSociocracy is a small but growing effort, join today.
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
