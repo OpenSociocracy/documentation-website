@@ -4,6 +4,17 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "OpenSociocracy",
   description: "Open Source Sociocracy 3.0 Tools",
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-RBJ2CFDH36' }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXXXXX');"
+    ]
+  ],
   themeConfig: {
     logo: 'logo_light.jpg',
     // https://vitepress.dev/reference/default-theme-config

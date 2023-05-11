@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/OpenSociocracy/documentation-website#readme",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.75"
-  }
+    "vitepress": "^1.0.0-alpha.75",
+    "vitepress-plugin-google-analytics": "^1.0.2"
+  },
+  "dependencies": {}
 }
