@@ -15,6 +15,10 @@ This is something of value the member provides.
 
 The free website for onboarding people to sociocracy. [https://handbook.opensociocracy.org/](https://handbook.opensociocracy.org/)
 
+## OSP
+
+The OpenSociocracy Platform is abbreviated as OSP. It encompasses the OpenSociocracy websites and all related services.
+
 ## Platform
 
 The entire set of services around the various OpenSociocracy web sites.
