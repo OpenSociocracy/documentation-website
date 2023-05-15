@@ -78,8 +78,21 @@ export default defineConfig({
             { text: "Who We Are", link: "/about-us/" },
             { text: "Open Source", link: "/about-us/why-use-open-source/" },
             { text: "Build in Public", link: "/about-us/why-build-in-public/" },
+            { text: "Software Manual", link: "/software-manual/" },
             { text: "Glossary", link: "/glossary/" },
             { text: "FAQ", link: "/faq/" },
+          ],
+        },
+      ],
+      "/software-manual/": [
+        {
+          text: "Logbook Manual",
+          items: [
+            { text: "Join", link: "/software-manual/join-opensociocracy/" },
+            { text: "Sign In", link: "/software-manual/opensociocracy-sign-in/" },
+            { text: "Manual Logbook Entry", link: "/software-manual/logbook/manual-entry/" },
+            { text: "Domains", link: "/software-manual/logbook/manage-sociocracy-domains/" },
+            { text: "Self-Hosting", link: "/self-hosting/" },
           ],
         },
       ],
