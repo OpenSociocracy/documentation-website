@@ -3,7 +3,7 @@
 
 ## How does Sociocracy differ from Holocracy, etc.?
 
-The good news is it doesn't matter, the [OSP](/glossary/#osp) will mix Sociocratic methods and methods more akin to Holocracy, that's part of the "Open" in "OpenSociocracy". We're open to introducing options where it makes sense.
+There are a number of ways to answer that. The good news is it doesn't matter, the [OSP](/glossary/#osp) will mix Sociocratic methods and methods more akin to Holocracy, that's part of the "Open" in "OpenSociocracy". We're open to introducing options where it makes sense.
 
 The more technical answers are covered in the links...
 
