@@ -16,3 +16,9 @@ If you use a hosted OpenSociocracy solution you may think that open source doesn
 ## Social Good
 
 There is also the element of social good. By using OpenSociocracy you help support open source developers, this helps ensure that others can experience those same freedoms and protections.
+
+## The Community Agrees
+
+There is a lot of cross over in open source and sociocratic beliefs, its really a peanut butter and chocolate kind of thing. We're not the only ones that believe that. 
+
+[SociocracyForAll](https://www.sociocracyforall.org/sociocracy-in-free-and-open-source-projects/)

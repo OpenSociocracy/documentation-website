@@ -79,6 +79,7 @@ export default defineConfig({
             { text: "Open Source", link: "/about-us/why-use-open-source/" },
             { text: "Build in Public", link: "/about-us/why-build-in-public/" },
             { text: "Glossary", link: "/about-us/glossary/" },
+            { text: "FAQ", link: "/about-us/faq/" },
           ],
         },
       ],
