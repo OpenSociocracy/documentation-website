@@ -16,8 +16,9 @@ const members = [
     name: 'Will Stedden',
     title: 'Founding Member',
     links: [
-      { icon: 'github', link: 'https://github.com/OpenSociocracy/' },
-      { icon: 'website', link: 'https://will.stedden.org' }
+      { icon: 'github', link: 'https://github.com/stedn' },
+      { icon: 'mastodon', link: 'https://sigmoid.social/@bonkerfield' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/willstedden' }
     ]
   },
 ]
