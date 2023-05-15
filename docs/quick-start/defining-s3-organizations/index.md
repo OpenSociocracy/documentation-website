@@ -1,1 +1,0 @@
-See [Organization Domains](/quick-start/defining-sociocracy-domains/)

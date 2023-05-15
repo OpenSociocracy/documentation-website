@@ -25,7 +25,8 @@ The entire set of services around the various OpenSociocracy web sites.
 
 ## S3
 
-Sociocracy specifically as defined by [https://sociocracy30.org/](https://sociocracy30.org/)
+Sociocracy specifically as defined by [https://sociocracy30.org/](https://sociocracy30.org/).
+This is our guiding source when looking to define a process, we may differ en the end but it will be the starting point each time.
 
 ## s8y
 
@@ -34,6 +35,10 @@ Abbreviation for sociocracy, pronounced `satee`. It is easier to write and say i
 ## Sociocracy
 
 We use it in the most general sense possible. 
+
+## Sociocracy 3.0
+
+See [S3](#s3). 
 
 ## Webapp
 

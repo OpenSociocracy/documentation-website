@@ -6,7 +6,7 @@ The guides below help you get up and running with Sociocracy.
 
 Logbooks store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
-We provide example logbooks to get you started.
+We provide free logbook templates to get you started.
 
 [Get started](/quick-start/keeping-a-sociocracy-logbook/)
 
@@ -15,7 +15,7 @@ We provide example logbooks to get you started.
 
 Organizational structure is the actual arrangement of domains, where power is located, and how influence flows.
 
-This quick start provides an excercise and worksheet to define your groups. You can then use [Circle Builder](/circle-builder/) to create organizational diagrams.
+This quick start provides spreadsheet templates to help in defining your groups. You can then use [Circle Builder](/circle-builder/) to create organizational diagrams. 
 
 [Get started](/quick-start/defining-sociocracy-domains/)
 

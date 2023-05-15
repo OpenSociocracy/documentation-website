@@ -65,8 +65,8 @@ export default defineConfig({
           items: [
             { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
             { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
+            { text: "Create a Proposal", link: "/quick-start/creating-sociocracy-proposals/" },
             { text: "Make Decisions", link: "/quick-start/using-sociocracy-for-decision-making/" },
-            // { text: "Defining Domains", link: "/quick-start/defining-sociocracy-domains/" },
             { text: "Use Peer Reviews", link: "/quick-start/sociocracy-peer-reviews/" }
           ],
         },
