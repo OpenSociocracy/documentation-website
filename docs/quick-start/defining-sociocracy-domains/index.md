@@ -23,9 +23,16 @@ The OpenSociocracy project used this same spreadsheets in our initial planning, 
 
 [Completed Delegation Spreadsheet]() ...coming soon
 
-If you are past the quick start phase, or it isn't working for you, consider other community resources:
+## Advanced Reading
 
-* [S3 Learning Community](https://community.sociocracy30.org/)
-* [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/)
-* [SoFA Training](https://www.sociocracyforall.org/training/)
-* [SoFA Events](https://www.sociocracyforall.org/events/)
+These are external SoFA or S3 resources that were referenced while developing the quick starts and logbook app.
+
+[Sociocracy in Small Groups](https://www.sociocracyforall.org/sociocracy-in-small-groups/)
+
+[What is a Domain?](https://www.sociocracyforall.org/clarity-and-empowerment-what-is-a-domain/)
+
+[S3 Domains](https://patterns.sociocracy30.org/domain.html)
+
+[Clarifying Domains](https://patterns.sociocracy30.org/clarify-and-develop-domains.html)
+
+[Circles in Sociocracy](https://www.sociocracyforall.org/organizational-circle-structure-in-sociocracy/)
