@@ -1,17 +1,20 @@
 # Kickstart Your Sociocracy Efforts
 
-The guides below help you get up and running with Sociocracy.
+Use these quick starts to launch your Sociocracy projects.
+
+* Define how you will track or log your activities.
+* Get a baseline understanding of drivers and domains.
+* Iterate through proposals, decisions and agreements.
+* Check your progress with periodic peer reviews.
 
 ## Keep a Logbook - Build on Your Efforts
 
-Logbooks store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when needed.
-
-We provide free logbook templates to get you started.
+If you don't track and organize your activities you won't be able to improve the process or measure its value. It is ok to start with a simple solution while you determine the people and processes that will be used. We provide free logbook templates to get you started.
 
 [Get started](/quick-start/keeping-a-sociocracy-logbook/)
 
 
-## Defining Drivers - Understanding the WHY 
+## Defining Drivers - Understanding WHY 
 
 
 [Get started](/quick-start/defining-business-drivers/)
@@ -27,9 +30,6 @@ This quick start provides spreadsheets and canvas templates to help in defining 
 
 
 ## Create Proposals using Sociocracy
-
-
-
 
 [Get started](/quick-start/creating-sociocracy-proposals/)
 

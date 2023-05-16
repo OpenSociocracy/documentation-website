@@ -14,9 +14,16 @@ Once you feel you've captured the essence of you organization in those canvases 
 
 
 [Delegation Spreadsheet](https://docs.google.com/spreadsheets/d/1pOjYS6MdFK_Oq4dNb7UoigdUyBm6wSf1d55KnO7rSNM/edit?usp=sharing) [(xlxs)](/spreadsheets/OpenSociocracy-Delegation-Workbook.xlsx) [(ods)](/spreadsheets/OpenSociocracy-Delegation-Workbook.ods)
-)
 
-If you are past the quick start phase, or it isn't working for you, consdier other community resources:
+The OpenSociocracy project used this same spreadsheets in our initial planning, you can use these as examples. 
+
+[Completed Organization Spreadsheet](https://docs.google.com/spreadsheets/d/1DoN8hmw_zmnt5XvKjR9bLVm0rF31rQg2PoAF7uXW_l0/edit?usp=sharing)
+
+[Completed Team Spreadsheet]() ...coming soon
+
+[Completed Delegation Spreadsheet]() ...coming soon
+
+If you are past the quick start phase, or it isn't working for you, consider other community resources:
 
 * [S3 Learning Community](https://community.sociocracy30.org/)
 * [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/)

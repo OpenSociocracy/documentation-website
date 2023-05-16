@@ -26,6 +26,23 @@ export default defineConfig({
     ],
 
     sidebar: {
+      "/contributing/": [
+        {
+          text: "Code Repos",
+          items: [
+            { text: "Server Code", link: "https://github.com/OpenSociocracy/open-sociocracy-saas" },
+            { text: "Handbook Repository", link: "https://github.com/OpenSociocracy/documentation-website" },
+          ],
+        },
+        {
+          text: "Governance",
+          items: [
+            { text: "Code of Conduct", link: "https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/CONTRIBUTING.md" },
+            { text: "Governance", link: "https://discord.gg/pawVfw43" },
+            { text: "Project Plan", link: "https://github.com/orgs/OpenSociocracy/projects/1"}
+          ],
+        }
+      ],
       "/opensociocracy-user-manual/": [
         {
           text: "User Manual",
