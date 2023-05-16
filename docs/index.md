@@ -12,14 +12,14 @@ hero:
       text: Quick Starts
       link: /quick-start/
     - theme: alt
-      text: Get the code
-      link: https://github.com/OpenSociocracy/open-sociocracy-saas
+      text: Join Discord
+      link: https://discord.gg/pawVfw43
 
 features:
   - title: Open Source
-    details: All the code for OpenSociocracy is free and open source.
+    details: All the code for OpenSociocracy is <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/">free and open source</a>.
   - title: Build in Public
-    details: We want to build the product the Sociocracy community wants.
+    details: We want to build the product the Sociocracy community wants, <a href="https://twitter.com/OpenSociocracy">follow the progress on Twitter</a>.
   - title: Hosted Option
-    details: OpenSociocracy will offer a hosted Saas solution.
+    details: OpenSociocracy will offer a hosted Saas solution. <a href="https://logbook.opensociocracy.org/">COMING SOON</a>
 ---

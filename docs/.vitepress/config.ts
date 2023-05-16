@@ -64,6 +64,7 @@ export default defineConfig({
           text: "Quick Starts",
           items: [
             { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
+            { text: "Define Drivers", link: "/quick-start/defining-business-domains/" },
             { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
             { text: "Create Proposals", link: "/quick-start/creating-sociocracy-proposals/" },
             { text: "Make Decisions", link: "/quick-start/using-sociocracy-for-decision-making/" },
@@ -101,7 +102,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/orgs/OpenSociocracy" },
-      // { icon: 'discord', link: 'https://discord.gg/seExDy6M'},
+      // { icon: 'discord', link: 'https://discord.gg/pawVfw43'},
       { icon: "twitter", link: "https://twitter.com/OpenSociocracy" },
       { icon: "facebook", link: "https://www.facebook.com/OpenSociocracy/" },
       { icon: "mastodon", link: "https://fosstodon.org/@opensociocracy" },
