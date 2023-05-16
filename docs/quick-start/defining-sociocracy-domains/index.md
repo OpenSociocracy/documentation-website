@@ -16,4 +16,9 @@ Once you feel you've captured the essence of you organization in those canvases 
 [Delegation Spreadsheet](https://docs.google.com/spreadsheets/d/1pOjYS6MdFK_Oq4dNb7UoigdUyBm6wSf1d55KnO7rSNM/edit?usp=sharing) [(xlxs)](/spreadsheets/OpenSociocracy-Delegation-Workbook.xlsx) [(ods)](/spreadsheets/OpenSociocracy-Delegation-Workbook.ods)
 )
 
-If you are past the quick start phase, or it isn't working for you, reach out to the  [learning community](https://community.sociocracy30.org/) or consider taking a [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/) course.
+If you are past the quick start phase, or it isn't working for you, consdier other community resources:
+
+* [S3 Learning Community](https://community.sociocracy30.org/)
+* [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/)
+* [SoFA Training](https://www.sociocracyforall.org/training/)
+* [SoFA Events](https://www.sociocracyforall.org/events/)
