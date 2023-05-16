@@ -3,6 +3,10 @@
 The terms in this glossary only cover the terms unique to this project, or ones where we want to make it clear what our usage of the term means.
 To clarify other terms we rely on the [Sociocracy 3.0 Glossary](https://patterns.sociocracy30.org/glossary.html).
 
+## Agreement
+
+tbd
+
 ## Artifact
 
 This is something of value the output by the platform or process.
@@ -10,6 +14,14 @@ This is something of value the output by the platform or process.
 ## Asset
 
 This is something of value the member provides.
+
+## Decision
+
+tbd
+
+## Domain
+
+tbd
 
 ## Handbook
 
