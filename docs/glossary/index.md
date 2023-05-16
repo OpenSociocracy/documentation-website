@@ -15,6 +15,11 @@ This is something of value the member provides.
 
 The free website for onboarding people to sociocracy. [https://handbook.opensociocracy.org/](https://handbook.opensociocracy.org/)
 
+
+## Logbook
+
+Used generally, this refers to [Sociocracy logbooks](https://patterns.sociocracy30.org/logbook.html). It is also the name of the [webapp](#webapp) that serves as the entry point to the[OpenSociocracy Platorm](#osp).
+
 ## OSP
 
 The OpenSociocracy Platform is abbreviated as OSP. It encompasses the OpenSociocracy websites and all related services.
@@ -26,7 +31,7 @@ The entire set of services around the various OpenSociocracy web sites.
 ## S3
 
 Sociocracy specifically as defined by [https://sociocracy30.org/](https://sociocracy30.org/).
-This is our guiding source when looking to define a process, we may differ en the end but it will be the starting point each time.
+This is our guiding source when looking to define a process, we may differ in the end but it will be the starting point each time.
 
 ## s8y
 
@@ -39,6 +44,10 @@ We use it in the most general sense possible.
 ## Sociocracy 3.0
 
 See [S3](#s3). 
+
+## SoFA
+
+[Sociocracy For All](https://www.sociocracyforall.org/) is a great resource, we link to some of their assets in the quick starts. They are a a nonprofit that helps organizations, communities, workplaces and collectives to learn how to organize in a decentralized way and make their decisions with equity, efficiency, empowerment, trust and transparency using sociocracy.
 
 ## Webapp
 
