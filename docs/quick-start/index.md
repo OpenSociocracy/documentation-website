@@ -11,6 +11,12 @@ We provide free logbook templates to get you started.
 [Get started](/quick-start/keeping-a-sociocracy-logbook/)
 
 
+## Defining Drivers - Understanding the WHY 
+
+
+[Get started](/quick-start/defining-business-drivers/)
+
+
 ## Define Domains - Structure Your Organization
 
 Organizational structure defines where power is located, and how influence flows. A domain is a distinct area of influence, activity and decision-making within an organization. It has a delegator, responsibile for a domain and individuals to whom the domain is delegated (delagatees).
@@ -18,6 +24,7 @@ Organizational structure defines where power is located, and how influence flows
 This quick start provides spreadsheets and canvas templates to help in defining your domains, delagators and delgatees. You can then use [Circle Builder](/circle-builder/) to create organizational diagrams. 
 
 [Get started](/quick-start/defining-sociocracy-domains/)
+
 
 ## Create Proposals using Sociocracy
 
