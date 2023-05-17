@@ -1,2 +1,2 @@
-# Creating an OpenSociocracy Membership
+# OpenSociocracy Membership
 

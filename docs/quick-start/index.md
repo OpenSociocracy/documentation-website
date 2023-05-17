@@ -16,7 +16,7 @@ If you don't track and organize your activities you won't be able to improve the
 
 ## Defining Drivers - Understanding WHY 
 
-In Sociocracy, like life, it is important to know what **drives** your actions. If you don't understand why you are making proposals, decisions and agreements the quality will suffer. Expect your driver definitions to change as you better understand your situation. 
+In sociocracy, like life, it is important to know what **drives** your actions. If you don't understand why you are making proposals, decisions and agreements the quality will suffer. Expect your driver definitions to change as you better understand your situation. 
 
 [Get started](/quick-start/defining-business-drivers/)
 
@@ -38,7 +38,7 @@ A well-formed proposal provides the foundation for informed decision-making. You
 
 ## Make Decisions with Consent
 
-Consent decision making can help move forwards more quickly. It allows enough input to avoid major missteps, without ceating a bottleneck for progress. Allowing more people a voice creates a better solution, and increases acceptance.
+Consent decision making can help move forwards quickly. It allows enough input to avoid major missteps, without ceating a bottleneck to progress. Allowing more people a voice creates a better solution, and increases acceptance.
 
 [Get started](/quick-start/using-sociocracy-for-decision-making/)
 

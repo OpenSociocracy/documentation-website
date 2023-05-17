@@ -105,13 +105,29 @@ export default defineConfig({
       ],
       "/software-manual/": [
         {
+          text: "Software Manual",
+          items: [
+            { text: "Home", link: "/software-manual/" },
+          ],
+        },
+        {
+          text: "Accessing OpenSociocracy",
+          items: [
+            { text: "Create Membership", link: "/software-manual/create-membership/" },
+            { text: "Sign In", link: "/software-manual/sign-in/" },
+            { text: "Sign Out", link: "/software-manual/sign-out/" },
+            { text: "Invites", link: "/software-manual/invites/" },
+          ],
+        },
+        {
           text: "Logbook Manual",
           items: [
-            { text: "Join", link: "/software-manual/join-opensociocracy/" },
-            { text: "Sign In", link: "/software-manual/opensociocracy-sign-in/" },
-            { text: "Manual Logbook Entry", link: "/software-manual/logbook/manual-entry/" },
-            { text: "Domains", link: "/software-manual/logbook/manage-sociocracy-domains/" },
-            { text: "Self-Hosting", link: "/self-hosting/" },
+            { text: "Drivers", link: "/software-manual/drivers/" },
+            { text: "Domains", link: "/software-manual/domains/" },
+            { text: "Proposals", link: "/software-manual/proposals/" },
+            { text: "Decisions", link: "/software-manual/decisions/" },
+            { text: "Agreements", link: "/software-manual/agreements/" },
+            { text: "Peer Review", link: "/software-manual/peer-reviews/" },
           ],
         },
       ],
