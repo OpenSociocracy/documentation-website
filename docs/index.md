@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "OpenSociocracy"
   text: "Help us build in public"
-  tagline: "Using Sociocracy practices to create Sociocracy tools"
+  tagline: "Using sociocracy practices to create sociocracy tools"
   actions:
 
     - theme: brand
@@ -19,7 +19,7 @@ features:
   - title: Open Source
     details: All the code for OpenSociocracy is <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/">free and open source</a>.
   - title: Build in Public
-    details: We want to build the product the Sociocracy community wants, <a href="https://twitter.com/OpenSociocracy">follow the progress on Twitter</a>.
+    details: We want to build the product the sociocracy community wants, <a href="https://twitter.com/OpenSociocracy">follow the progress on Twitter</a>.
   - title: Hosted Option
     details: OpenSociocracy will offer a hosted Saas solution. <a href="https://logbook.opensociocracy.org/">COMING SOON</a>
 ---

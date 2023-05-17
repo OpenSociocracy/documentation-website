@@ -1,6 +1,6 @@
 # What to Ask you Sociocracy Consultant
 
-These questions will help you find the right Sociocracy consultant for your project.
+These questions will help you find the right sociocracy consultant for your project.
 
 1. Q 1
 

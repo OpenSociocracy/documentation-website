@@ -26,7 +26,7 @@ const members = [
 
 # The OpenSociocracy Project
 
-The OpenSociocracy project was started May 1, 2023 by developers at a small tech co-op that were struggling get their own internal Sociocracy projects kicked off. We're releasing the code as [open source](/about-us/why-use-open-source/) and developing the product using a [build in public](/about-us/why-build-in-public/) process.
+The OpenSociocracy project was started May 1, 2023 by developers at a small tech co-op that were struggling get their own internal sociocracy projects kicked off. We're releasing the code as [open source](/about-us/why-use-open-source/) and developing the product using a [build in public](/about-us/why-build-in-public/) process.
 
 Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/pawVfw43).
 
@@ -38,7 +38,7 @@ This is an all volunteer effort, the developers are donating their time and host
 
 ## Software Handbook
 
-We have an online [software manual](/software-manual/) to support users of our OpenSociocracy SaaS product. The manual will help new users at each step of the journey to implement Sociocracy. The [SaaS product](https://logbook.opensociocracy.org) helps fund the development of the open source product, so please consider getting a paid account or a [self hosting support contract](/self-hosting/installation-and-support-contracts/).
+We have an online [software manual](/software-manual/) to support users of our OpenSociocracy SaaS product. The manual will help new users at each step of the journey to implement sociocracy. The [SaaS product](https://logbook.opensociocracy.org) helps fund the development of the open source product, so please consider getting a paid account or a [self hosting support contract](/self-hosting/installation-and-support-contracts/).
 
 
 

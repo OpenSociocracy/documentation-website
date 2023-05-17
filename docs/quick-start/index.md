@@ -1,6 +1,6 @@
 # Kickstart Your Sociocracy Efforts
 
-Use these quick starts to launch your Sociocracy projects.
+Use these quick starts to launch your sociocracy projects.
 
 * Define how you will track or log your activities.
 * Get a baseline understanding of drivers and domains.
@@ -23,7 +23,7 @@ In Sociocracy, like life, it is important to know what **drives** your actions. 
 
 ## Define Domains - Structure Your Organization
 
-Traditional organizations structures don't always represent where power is and influence flows. Use Sociocracy circles and domains to better understand the true relations within your organization. The smaller your organization is, the easier this will be.
+Traditional organizations structures don't always represent where power is and influence flows. Use sociocracy circles and domains to better understand the true relations within your organization. The smaller your organization is, the easier this will be.
 
 [Get started](/quick-start/defining-sociocracy-domains/)
 

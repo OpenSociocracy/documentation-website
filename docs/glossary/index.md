@@ -30,7 +30,7 @@ The free website for onboarding people to sociocracy. [https://handbook.opensoci
 
 ## Logbook
 
-Used generally, this refers to [Sociocracy logbooks](https://patterns.sociocracy30.org/logbook.html). It is also the name of the [webapp](#webapp) that serves as the entry point to the[OpenSociocracy Platorm](#osp).
+Used generally, this refers to [sociocracy logbooks](https://patterns.sociocracy30.org/logbook.html). It is also the name of the [webapp](#webapp) that serves as the entry point to the[OpenSociocracy Platorm](#osp).
 
 ## OSP
 
@@ -59,7 +59,7 @@ See [S3](#s3).
 
 ## SoFA
 
-[Sociocracy For All](https://www.sociocracyforall.org/) is a great resource, we link to some of their assets in the quick starts. They are a a nonprofit that helps organizations, communities, workplaces and collectives to learn how to organize in a decentralized way and make their decisions with equity, efficiency, empowerment, trust and transparency using sociocracy.
+[Sociocracy For All](https://www.sociocracyforall.org/) is a great resource, we link to some of their assets in the quick starts. They are a nonprofit that helps organizations, communities, workplaces and collectives to learn how to organize in a decentralized way and make their decisions with equity, efficiency, empowerment, trust and transparency using sociocracy.
 
 ## Webapp
 

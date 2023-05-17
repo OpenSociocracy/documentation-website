@@ -1,6 +1,6 @@
 # Define Domains 
 
-Using Sociocracy helps you figure out how to meet challenges, and create value with the limited time, energy and resources.
+Using sociocracy helps you figure out how to meet challenges, and create value with the limited time, energy and resources.
 
 ## Structure Your Organization
 
@@ -25,7 +25,7 @@ The OpenSociocracy project used this same spreadsheets in our initial planning, 
 
 ## Advanced Reading
 
-These are external SoFA or S3 resources that were referenced while developing the quick starts and logbook app.
+These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that were referenced while developing the quick starts and logbook app.
 
 [Sociocracy in Small Groups](https://www.sociocracyforall.org/sociocracy-in-small-groups/)
 
