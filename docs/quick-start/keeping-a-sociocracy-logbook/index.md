@@ -51,3 +51,10 @@ This is the logbook the OpenSociocracy team kept of our effort while creating th
 
 These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that were referenced while developing the quick starts and logbook app.
 
+* [SoFA A3: keeping a logbook](https://www.sociocracyforall.org/badge-a3/)
+
+[S3 Logbook Keeper](https://patterns.sociocracy30.org/logbook-keeper.html)
+
+* [The Legal Documentation of Sociocracy](https://www.sociocracyforall.org/the-legal-documentation-of-sociocracy/)
+
+* [Sociocracy Meeting Format](https://www.sociocracyforall.org/meeting-format/)
