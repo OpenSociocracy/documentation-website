@@ -38,7 +38,7 @@ This is an all volunteer effort, the developers are donating their time and host
 
 ## Software Handbook
 
-We have an online [software manual](/software-manual/) to support users of our OpenSociocracy SaaS product. The manual will help new users at each step of the journey to implement sociocracy. The [SaaS product](https://logbook.opensociocracy.org) helps fund the development of the open source product, so please consider getting a paid account or a [self hosting support contract](/self-hosting/installation-and-support-contracts/).
+We have an online [software manual](/software-manual/) to support users of our OpenSociocracy SaaS product. The manual will help new users at each step of the journey to implement sociocracy. The [SaaS product](https://logbook.opensociocracy.org) helps fund the development of the open source product, so please consider getting a paid account or a [self hosting support contract](/software-manual/self-hosting/installation-and-support-contracts/).
 
 
 

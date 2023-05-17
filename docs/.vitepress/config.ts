@@ -130,6 +130,17 @@ export default defineConfig({
             { text: "Peer Review", link: "/software-manual/peer-reviews/" },
           ],
         },
+        {
+          text: "Self-Hosting",
+          items: [
+            { text: "Prerequisites", link: "/software-manual/self-hosting/prerequisites" },
+            {
+              text: "Hosting on AWS",
+              link: "/software-manual/self-hosting/cloud-hosting-on-aws",
+            },
+            { text: "Hosting On-site", link: "/software-manual/self-hosting/onsite-hosting" },
+          ],
+        },
       ],
     },
 
@@ -139,6 +150,7 @@ export default defineConfig({
       { icon: "twitter", link: "https://twitter.com/OpenSociocracy" },
       { icon: "facebook", link: "https://www.facebook.com/OpenSociocracy/" },
       { icon: "mastodon", link: "https://fosstodon.org/@opensociocracy" },
+      { icon: "linkedin", link: "https://www.linkedin.com/company/opensociocracy/" },
     ],
 
     footer: {
