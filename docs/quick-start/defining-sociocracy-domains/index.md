@@ -27,12 +27,12 @@ The OpenSociocracy project used this same spreadsheets in our initial planning, 
 
 These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that were referenced while developing the quick starts and logbook app.
 
-[Sociocracy in Small Groups](https://www.sociocracyforall.org/sociocracy-in-small-groups/)
+* [Sociocracy in Small Groups](https://www.sociocracyforall.org/sociocracy-in-small-groups/)
 
-[What is a Domain?](https://www.sociocracyforall.org/clarity-and-empowerment-what-is-a-domain/)
+* [What is a Domain?](https://www.sociocracyforall.org/clarity-and-empowerment-what-is-a-domain/)
 
-[S3 Domains](https://patterns.sociocracy30.org/domain.html)
+* [S3 Domains](https://patterns.sociocracy30.org/domain.html)
 
-[Clarifying Domains](https://patterns.sociocracy30.org/clarify-and-develop-domains.html)
+* [Clarifying Domains](https://patterns.sociocracy30.org/clarify-and-develop-domains.html)
 
-[Circles in Sociocracy](https://www.sociocracyforall.org/organizational-circle-structure-in-sociocracy/)
+* [Circles in Sociocracy](https://www.sociocracyforall.org/organizational-circle-structure-in-sociocracy/)

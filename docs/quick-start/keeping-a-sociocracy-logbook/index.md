@@ -47,3 +47,7 @@ This is the logbook the OpenSociocracy team kept of our effort while creating th
 
 ### Adding Linked documents
 
+## Advanced Reading
+
+These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that were referenced while developing the quick starts and logbook app.
+
