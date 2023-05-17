@@ -53,7 +53,7 @@ These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that
 
 * [SoFA A3: keeping a logbook](https://www.sociocracyforall.org/badge-a3/)
 
-[S3 Logbook Keeper](https://patterns.sociocracy30.org/logbook-keeper.html)
+* [S3 Logbook Keeper](https://patterns.sociocracy30.org/logbook-keeper.html)
 
 * [The Legal Documentation of Sociocracy](https://www.sociocracyforall.org/the-legal-documentation-of-sociocracy/)
 
