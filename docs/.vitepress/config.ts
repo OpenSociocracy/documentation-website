@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "OpenSociocracy",
-  description: "Open Source Sociocracy 3.0 Tools",
+  description: "Open Source Sociocracy Tools",
   head: [
     [
       'script',
@@ -81,11 +81,11 @@ export default defineConfig({
           text: "Quick Starts",
           items: [
             { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
-            { text: "Define Drivers", link: "/quick-start/defining-business-domains/" },
+            { text: "Define Drivers", link: "/quick-start/defining-business-drivers/" },
             { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
             { text: "Create Proposals", link: "/quick-start/creating-sociocracy-proposals/" },
             { text: "Make Decisions", link: "/quick-start/using-sociocracy-for-decision-making/" },
-            { text: "Form Agreements", link: "/quick-start/forming-agreements-in-sociocracy/" },
+            { text: "Form Agreements", link: "/quick-start/forming-business-agreements/" },
             { text: "Use Peer Reviews", link: "/quick-start/sociocracy-peer-reviews/" }
           ],
         },

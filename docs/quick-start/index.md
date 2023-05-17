@@ -30,31 +30,28 @@ Traditional organizations structures don't always represent where power is and i
 
 ## Create Proposals using Sociocracy
 
-https://patterns.sociocracy30.org/proposal-forming.html
+A well-formed proposal provides the foundation for informed decision-making. You are already creating proposals in emails or tickets, sociocracy helps formalize the process, with a human touch. We have documents and spreadsheets to help you create effective proposals, with minimal effort.
+
 
 [Get started](/quick-start/creating-sociocracy-proposals/)
 
 
 ## Make Decisions with Consent
 
-Consent involves being open to opportunities for learning and improvement as well as seeking out objections.
-
-Our exercises and worksheets will help you make your first consent decisions.
+Consent decision making can help move forwards more quickly. It allows enough input to avoid major missteps, without ceating a bottleneck for progress. Allowing more people a voice creates a better solution, and increases acceptance.
 
 [Get started](/quick-start/using-sociocracy-for-decision-making/)
 
 ## Form Agreements using Sociocracy
 
-
+Agreements ensure that decisions have impact. An agreement details who will do what to make that decision a reality. These agreements will lead to proposals, starting the process again.
 
 [Get started](/quick-start/forming-business-agreements/)
 
 
-## Use Peer Reviews to Manage Teams
+## Use Peer Reviews to Self-Manage Teams
 
-Use peer reviews to support each other as you learn and grow in your new roles.
-
-Our exercises and worksheets will help take the sting out of peer review.
+Check your progress and effectiveness using peer reviews. The sociocracy process can take some of the sting out of peer reviews.
 
 [Get started](/quick-start/sociocracy-peer-reviews/)
 
