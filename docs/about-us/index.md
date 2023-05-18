@@ -20,7 +20,8 @@ const members = [
       { icon: 'github', link: 'https://github.com/stedn' },
       { icon: 'mastodon', link: 'https://sigmoid.social/@bonkerfield' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/willstedden' }
-    ]
+    ],
+    desc: 'Likes to build things, has a passions for economic democracy and getting stuff done.'
   },
 ]
 </script>
