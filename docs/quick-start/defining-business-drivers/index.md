@@ -18,7 +18,7 @@ A [driver](/glossary/#driver) is what casues us to act. It is useful to phrase i
 * Legislation and government policy
 * Litigation
 
-To get started we suggest defining the organizations top drivers. This will enable you to tie your other activities back to those. When starting out, it is ok if you can't define them. They may be easier to define as they come up in context. 
+To get started we suggest defining the organizations top drivers. This will enable you to tie your other activities back to those. When starting out, it is ok if you can't define them. They will be easier to define as they come up in context. 
 
 To write those, think about:
 
