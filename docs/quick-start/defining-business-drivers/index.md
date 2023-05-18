@@ -1,5 +1,17 @@
 # Defining Business Drivers
 
+A [driver](/glossary/#driver) is what casues us to act.
+
+It is useful to phrase it as "what is happening" and "what is needed".
+
+To craft those phrases think about:
+
+* What **happened** to create the situation?
+
+* What new **needs** have arisen?
+
+* What **changes** need to be made?
+
 
 ## Advanced Reading
 

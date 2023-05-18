@@ -23,6 +23,10 @@ tbd
 
 tbd
 
+## Driver
+
+A driver is what casues us to act. See our quick start on [defining business drivers](/quick-start/defining-business-drivers/).
+
 ## Handbook
 
 The free website for onboarding people to sociocracy. [https://handbook.opensociocracy.org/](https://handbook.opensociocracy.org/)

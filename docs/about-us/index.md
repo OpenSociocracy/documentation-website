@@ -9,7 +9,8 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/bwinkers' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/bwinkers/' }
-    ]
+    ],
+    desc: 'Over 35 years experience with startups, community building and web development.'
   },
   {
     avatar: 'https://handbook.opensociocracy.org/team/will.png',
