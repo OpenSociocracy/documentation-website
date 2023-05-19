@@ -19,9 +19,9 @@ The OpenSociocracy project used this same spreadsheets in our initial planning, 
 
 [Completed Organization Spreadsheet](https://docs.google.com/spreadsheets/d/1DoN8hmw_zmnt5XvKjR9bLVm0rF31rQg2PoAF7uXW_l0/edit?usp=sharing)
 
-[Completed Team Spreadsheet]() ...coming soon
+[Completed Team Spreadsheet](https://docs.google.com/spreadsheets/d/1cixKQ3f0QNcBxbMWxmLlRQN9TinUaCaPD5KK1f1qguM/edit?usp=sharing)
 
-[Completed Delegation Spreadsheet]() ...coming soon
+[Completed Delegation Spreadsheet](https://docs.google.com/spreadsheets/d/1oLHNpZo2nLQzGzE-w887RHkORaI9mpFiV5rOK6Hmeak/edit?usp=sharing)
 
 ## Advanced Reading
 
