@@ -44,4 +44,6 @@ These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that
 
 * [Conflict as a Tension to Steer By](https://www.sociocracyforall.org/conflict-as-a-tension-to-steer-by/)
 
+* [Design Circle Structures](https://www.sociocracyforall.org/design-circle-structure/)
+
 * [Sociocracy 3.0 Foundations Part 1](https://sociocracy30.org/2015/11/sociocracy-3-0-foundations-part-1/)

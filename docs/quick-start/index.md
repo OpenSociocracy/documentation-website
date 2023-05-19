@@ -58,6 +58,18 @@ Check your progress and effectiveness using peer reviews. The sociocracy process
 
 ## Additional Resources
 
+### Meetings
+
+* [Sociocracy Meeting Format](https://www.sociocracyforall.org/meeting-format/)
+* [Keeping Meetings on Track](https://www.sociocracyforall.org/better-facilitation-how-not-to-side-track-a-meeting/)
+
+### Governance
+
+* [Sociocracy Selection Process](https://www.sociocracyforall.org/selection-process/)
+* [National, Regional and Local Circles](https://www.sociocracyforall.org/national-regional-and-local-sociocracy/)
+
+### Sociocracy Traing Resources
+
 If you are past the quick start phase, or it isn't working for you, consider other community resources:
 
 * [S3 Learning Community](https://community.sociocracy30.org/)
