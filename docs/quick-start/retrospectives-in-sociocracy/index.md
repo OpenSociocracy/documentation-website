@@ -2,9 +2,13 @@
 
 ## What Went Well?
 
+## What Could be Improved?
+
 ## What Problems Arose?
 
-## Proposed Actions?
+## What was Learned?
+
+## Proposed Actions
 
 ## Questions
 
@@ -12,4 +16,6 @@
 
 [S3 Retrospectives](https://patterns.sociocracy30.org/retrospective.html)
 
-[What is an Agile Retrospective](https://www.teamretro.com/retrospectives/agile-retrospective)
+[What is a Retrospective](https://www.teamretro.com/retrospectives/agile-retrospective)
+
+[Principles of Continuous Improvement](https://patterns.sociocracy30.org/principle-continuous-improvement.html)
