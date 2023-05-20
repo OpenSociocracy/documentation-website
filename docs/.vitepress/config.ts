@@ -129,8 +129,18 @@ export default defineConfig({
               link: "/quick-start/forming-business-agreements/",
             },
             {
-              text: "Use Peer Reviews",
-              link: "/quick-start/sociocracy-peer-reviews/",
+              text: "Improve Your Efforts",
+              collapsed: true,
+              items: [
+                {
+                  text: "Implement Retrospectives",
+                  link: "/quick-start/retrospectives-in-sociocracy/",
+                },
+                {
+                  text: "Use Peer Reviews",
+                  link: "/quick-start/sociocracy-peer-reviews/",
+                },
+              ],
             },
           ],
         },

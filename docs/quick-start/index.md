@@ -34,12 +34,12 @@ Ensure your decisons have impact, form clear agreements. An agreement details wh
 
 [Get started ->](/quick-start/forming-business-agreements/)
 
+## Improve Your Efforts using Sociocracy
 
-## Use Peer Reviews to Self-Manage Teams
+Continuous improvemnt requires feedback, use these practices with a Sociocratic twist.
 
-Check your progress and effectiveness using peer reviews. The sociocracy process can take some of the sting out of peer reviews.
-
-[Get started ->](/quick-start/sociocracy-peer-reviews/)
+* [Retrospective](/quick-start/retrospectives-in-sociocracy/)
+* [Peer Reviews](/quick-start/sociocracy-peer-reviews/)
 
 
 ## Additional Resources

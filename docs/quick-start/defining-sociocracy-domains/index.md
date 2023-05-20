@@ -36,3 +36,5 @@ These are external [SoFA](/glossary/#sofa) or [S3](/glossary/#s3) resources that
 * [Clarifying Domains](https://patterns.sociocracy30.org/clarify-and-develop-domains.html)
 
 * [Circles in Sociocracy](https://www.sociocracyforall.org/organizational-circle-structure-in-sociocracy/)
+
+* [case Study: 10pines](https://www.sociocracyforall.org/casestudy-10pines/)
