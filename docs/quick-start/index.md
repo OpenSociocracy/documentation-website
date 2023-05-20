@@ -16,30 +16,30 @@ A base-level understanding of these concepts is useful for implementing the quic
 
 ## Create Proposals using Sociocracy
 
-A well-formed proposal provides the foundation for informed decision-making. You are already creating proposals in emails or tickets, sociocracy helps formalize the process, with a human touch. We have documents and spreadsheets to help you create effective proposals, with minimal effort.
+Surface the best ideas in your organization with well-formed proposals.
 
 
-[Get started](/quick-start/creating-sociocracy-proposals/)
+[Get started ->](/quick-start/creating-sociocracy-proposals/)
 
 
 ## Make Decisions with Consent
 
-Consent decision making improves the speed, quality and acceptance of the decsions. Implementing a more formalized process helps people focus on using the tools, and not defining them.
+Improve the quality and acceptance of decisions in your organization. Implement a formalized process to help reduce conflict and create the best possible decisions, in less time.
 
-[Get started](/quick-start/using-sociocracy-for-decision-making/)
+[Get started ->](/quick-start/using-sociocracy-for-decision-making/)
 
 ## Form Agreements using Sociocracy
 
-Agreements ensure that decisions have impact. An agreement details who will do what to make that decision a reality. These agreements will lead to proposals, starting the process again.
+Ensure your decisons have impact, form clear agreements. An agreement details who will do what to make that decision a reality. These agreements will lead to proposals, starting the process again.
 
-[Get started](/quick-start/forming-business-agreements/)
+[Get started ->](/quick-start/forming-business-agreements/)
 
 
 ## Use Peer Reviews to Self-Manage Teams
 
 Check your progress and effectiveness using peer reviews. The sociocracy process can take some of the sting out of peer reviews.
 
-[Get started](/quick-start/sociocracy-peer-reviews/)
+[Get started ->](/quick-start/sociocracy-peer-reviews/)
 
 
 ## Additional Resources
