@@ -6,17 +6,20 @@ export default defineConfig({
   description: "Open Source Sociocracy Tools",
   head: [
     [
-      'script',
-      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-RBJ2CFDH36' }
+      "script",
+      {
+        async: "",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-RBJ2CFDH36",
+      },
     ],
     [
-      'script',
+      "script",
       {},
-      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXXXXX');"
-    ]
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXXXXX');",
+    ],
   ],
   themeConfig: {
-    logo: 'logo_light.jpg',
+    logo: "logo_light.jpg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "The Project", link: "/about-us/" },
@@ -30,18 +33,30 @@ export default defineConfig({
         {
           text: "Code Repos",
           items: [
-            { text: "Server Code", link: "https://github.com/OpenSociocracy/open-sociocracy-saas" },
-            { text: "Handbook Repository", link: "https://github.com/OpenSociocracy/documentation-website" },
+            {
+              text: "Server Code",
+              link: "https://github.com/OpenSociocracy/open-sociocracy-saas",
+            },
+            {
+              text: "Handbook Repository",
+              link: "https://github.com/OpenSociocracy/documentation-website",
+            },
           ],
         },
         {
           text: "Governance",
           items: [
-            { text: "Code of Conduct", link: "https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/CONTRIBUTING.md" },
+            {
+              text: "Code of Conduct",
+              link: "https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/CONTRIBUTING.md",
+            },
             { text: "Governance", link: "https://discord.gg/pawVfw43" },
-            { text: "Project Plan", link: "https://github.com/orgs/OpenSociocracy/projects/1"}
+            {
+              text: "Project Plan",
+              link: "https://github.com/orgs/OpenSociocracy/projects/1",
+            },
           ],
-        }
+        },
       ],
       "/opensociocracy-user-manual/": [
         {
@@ -61,7 +76,7 @@ export default defineConfig({
               link: "/user-manual/governance-operations",
             },
           ],
-        }
+        },
       ],
       "/self-hosting/": [
         {
@@ -80,13 +95,43 @@ export default defineConfig({
         {
           text: "Quick Starts",
           items: [
-            { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
-            { text: "Define Drivers", link: "/quick-start/defining-business-drivers/" },
-            { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
-            { text: "Create Proposals", link: "/quick-start/creating-sociocracy-proposals/" },
-            { text: "Make Decisions", link: "/quick-start/using-sociocracy-for-decision-making/" },
-            { text: "Form Agreements", link: "/quick-start/forming-business-agreements/" },
-            { text: "Use Peer Reviews", link: "/quick-start/sociocracy-peer-reviews/" }
+            {
+              text: "Organize Your Efforts",
+              collapsed: true,
+              items: [
+                {
+                  text: "Keep a Logbook",
+                  link: "/quick-start/keeping-a-sociocracy-logbook/",
+                },
+                {
+                  text: "Define Drivers",
+                  link: "/quick-start/defining-business-drivers/",
+                },
+                {
+                  text: "Define Domains",
+                  link: "/quick-start/defining-sociocracy-domains/",
+                },
+              ],
+            },
+            // { text: "Keep a Logbook", link: "/quick-start/keeping-a-sociocracy-logbook/" },
+            // { text: "Define Drivers", link: "/quick-start/defining-business-drivers/" },
+            // { text: "Define Domains", link: "/quick-start/defining-sociocracy-domains/" },
+            {
+              text: "Create Proposals",
+              link: "/quick-start/creating-sociocracy-proposals/",
+            },
+            {
+              text: "Make Decisions",
+              link: "/quick-start/using-sociocracy-for-decision-making/",
+            },
+            {
+              text: "Form Agreements",
+              link: "/quick-start/forming-business-agreements/",
+            },
+            {
+              text: "Use Peer Reviews",
+              link: "/quick-start/sociocracy-peer-reviews/",
+            },
           ],
         },
       ],
@@ -106,14 +151,15 @@ export default defineConfig({
       "/software-manual/": [
         {
           text: "Software Manual",
-          items: [
-            { text: "Home", link: "/software-manual/" },
-          ],
+          items: [{ text: "Home", link: "/software-manual/" }],
         },
         {
           text: "Accessing OpenSociocracy",
           items: [
-            { text: "Create Membership", link: "/software-manual/create-membership/" },
+            {
+              text: "Create Membership",
+              link: "/software-manual/create-membership/",
+            },
             { text: "Sign In", link: "/software-manual/sign-in/" },
             { text: "Sign Out", link: "/software-manual/sign-out/" },
             { text: "Invites", link: "/software-manual/invites/" },
@@ -133,12 +179,18 @@ export default defineConfig({
         {
           text: "Self-Hosting",
           items: [
-            { text: "Prerequisites", link: "/software-manual/self-hosting/prerequisites" },
+            {
+              text: "Prerequisites",
+              link: "/software-manual/self-hosting/prerequisites",
+            },
             {
               text: "Hosting on AWS",
               link: "/software-manual/self-hosting/cloud-hosting-on-aws",
             },
-            { text: "Hosting On-site", link: "/software-manual/self-hosting/onsite-hosting" },
+            {
+              text: "Hosting On-site",
+              link: "/software-manual/self-hosting/onsite-hosting",
+            },
           ],
         },
       ],
@@ -150,16 +202,21 @@ export default defineConfig({
       { icon: "twitter", link: "https://twitter.com/OpenSociocracy" },
       { icon: "facebook", link: "https://www.facebook.com/OpenSociocracy/" },
       { icon: "mastodon", link: "https://fosstodon.org/@opensociocracy" },
-      { icon: "linkedin", link: "https://www.linkedin.com/company/opensociocracy/" },
+      {
+        icon: "linkedin",
+        link: "https://www.linkedin.com/company/opensociocracy/",
+      },
     ],
 
     footer: {
       message: 'Sponsored by "Sociocracy org name" and "funding org name"',
-      copyright: 'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> and <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE">AGPL</a> License</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>'
+      copyright:
+        'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> and <a href="https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE">AGPL</a> License</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>',
     },
 
     editLink: {
-      pattern: 'https://github.com/OpenSociocracy/documentation-website/tree/main/docs/:path'
-    }
+      pattern:
+        "https://github.com/OpenSociocracy/documentation-website/tree/main/docs/:path",
+    },
   },
 });

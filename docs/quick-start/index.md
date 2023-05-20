@@ -2,30 +2,16 @@
 
 Use these quick starts to launch your sociocracy projects.
 
-* Define how you will track or log your activities.
-* Get a baseline understanding of drivers and domains.
 * Iterate through proposals, decisions and agreements.
 * Check your progress with periodic peer reviews.
 
-## Keep a Logbook - Build on Your Efforts
+## Organize Your Efforts - The Sociocratic Way
 
-If you don't track and organize your activities you won't be able to improve the process or measure its value. It is ok to start with a simple solution while you determine the people and processes that will be used. We provide free logbook templates to get you started.
+A base-level understanding of these concepts is useful for implementing the quick starts. 
 
-[Get started](/quick-start/keeping-a-sociocracy-logbook/)
-
-
-## Defining Drivers - Understanding WHY 
-
-In sociocracy, like life, it is important to know what **drives** your actions. If you don't understand why you are making proposals, decisions and agreements the quality will suffer. Expect your driver definitions to change as you better understand your situation. 
-
-[Get started](/quick-start/defining-business-drivers/)
-
-
-## Define Domains - Structure Your Organization
-
-Traditional organizations structures don't always represent where power is and influence flows. Use sociocracy circles and domains to better understand the true relations within your organization. The smaller your organization is, the easier this will be.
-
-[Get started](/quick-start/defining-sociocracy-domains/)
+* [Logbooks](/quick-start/keeping-a-sociocracy-logbook/)
+* [Drivers](/quick-start/defining-business-drivers/)
+* [Domains](/quick-start/defining-sociocracy-domains/)
 
 
 ## Create Proposals using Sociocracy
@@ -72,7 +58,7 @@ Check your progress and effectiveness using peer reviews. The sociocracy process
 
 If you are past the quick start phase, or it isn't working for you, consider other community resources:
 
-* [S3 Learning Community](https://community.sociocracy30.org/)
-* [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/)
 * [SoFA Training](https://www.sociocracyforall.org/training/)
+* [Sociocracy 3.0 Academy](https://academy.sociocracy30.org/)
 * [SoFA Events](https://www.sociocracyforall.org/events/)
+* [S3 Learning Community](https://community.sociocracy30.org/)
