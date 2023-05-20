@@ -24,7 +24,7 @@ A well-formed proposal provides the foundation for informed decision-making. You
 
 ## Make Decisions with Consent
 
-Consent decision making can help move forwards quickly. It allows enough input to avoid major missteps, without ceating a bottleneck to progress. Allowing more people a voice creates a better solution, and increases acceptance.
+Consent decision making improves the speed, quality and acceptance of the decsions. Implementing a more formalized process helps people focus on using the tools, and not defining them.
 
 [Get started](/quick-start/using-sociocracy-for-decision-making/)
 
