@@ -65,6 +65,14 @@ See [S3](#s3).
 
 [Sociocracy For All](https://www.sociocracyforall.org/) is a great resource, we link to some of their assets in the quick starts. They are a nonprofit that helps organizations, communities, workplaces and collectives to learn how to organize in a decentralized way and make their decisions with equity, efficiency, empowerment, trust and transparency using sociocracy.
 
+## VF
+
+See [Virtual Facilitator](#virtual-facilitator)
+
+## Virtual Facilitator
+
+The virtual facilitator built into the platform, performs some of the same functions for remote, asynchronous meetings, as human facilitators do fo in-person meetings.
+
 ## Webapp
 
 The app currently residing at [https://logbook.opensociocracy.org/](https://logbook.opensociocracy.org/). It is the frontend component of the platform.
