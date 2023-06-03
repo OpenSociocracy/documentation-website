@@ -11,7 +11,8 @@ A proposal is the first step in reaching and informed consensus, inolving the te
 
 The short video at the bottom of this [article on proposals](https://www.sociocracyforall.org/participatory-proposal-writing/) is a good starting point. You can copy our template below to create a proposals logbook. The spreadsheet used by the OpenSociocracy team is provided as well.
 
-* [OpenSociocracy Proposal Forming Template](https://docs.google.com/spreadsheets/d/11lheISzs54qfAr7Pf2eDlGoaB4ihfMKTKvQZ9MA03GQ/edit?usp=sharing)
+* [OpenSociocracy Proposal Forming Spreadsheet](https://docs.google.com/spreadsheets/d/11lheISzs54qfAr7Pf2eDlGoaB4ihfMKTKvQZ9MA03GQ/edit?usp=sharing)
+* [OpenSociocracy Proposal Forming Presentation](https://docs.google.com/presentation/d/1aJuqvbY7-PYSIX7KZh7-SiQEulTohWLRoDXuo1RXMYk/edit?usp=sharing)
 
 * [Actual OpenSociocracy Proposals](https://docs.google.com/spreadsheets/d/1LecETe1Sxdg5MwPC20Inuw0y6bTnswvVqhibIz3jZ-I/edit?usp=sharing)
 
