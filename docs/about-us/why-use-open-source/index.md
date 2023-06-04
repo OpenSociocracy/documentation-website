@@ -7,7 +7,7 @@ Without being preachy, open source is about freedom and protection.
 
 ## Freedom
 
-If our product doesn't do what you want you can fork it and do as you please, subject to [license](https://github.com/OpenSociocracy/open-sociocracy-saas/blob/main/LICENSE).
+If our product doesn't do what you want you can fork it and do as you please, subject to [license](https://github.com/OpenSociocracy/opensociocracy-platform/blob/main/LICENSE).
 
 ## Protection
 
