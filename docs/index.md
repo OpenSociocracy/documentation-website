@@ -13,7 +13,7 @@ hero:
       link: /quick-start/
     - theme: alt
       text: Join Discord
-      link: https://discord.gg/pawVfw43
+      link: https://discord.gg/3DhFVkVQ
 
 features:
   - title: Open Source
