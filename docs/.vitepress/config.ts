@@ -221,7 +221,7 @@ export default defineConfig({
     footer: {
       message: 'Sponsored by <a href="https://coop.ultri.com/">Ultri</a>',
       copyright:
-        'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a>.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>',
+        'Released under the <a href="https://github.com/OpenSociocracy/documentation-website/blob/main/LICENSE">MIT</a> license.<br />Copyright <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>',
     },
 
     editLink: {
