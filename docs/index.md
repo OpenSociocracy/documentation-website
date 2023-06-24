@@ -21,5 +21,5 @@ features:
   - title: Build in Public
     details: We want to build the product the sociocracy community wants.<br /><br /><a href="https://twitter.com/OpenSociocracy">Follow on Twitter<a href="https://twitter.com/OpenSociocracy"> or join in on <a href="https://discord.gg/tG7sCar5">Discord</a>.
   - title: Hosted Option
-    details: OpenSociocracy will offer a hosted Saas solution.<br /><br /> <a href="https://www.ultri.com/logbook/">COMING SOON</a>
+    details: Ultri, our parent co-op, will offer a hosted Saas solution.<br /><br /> <a href="https://www.ultri.com/logbook/">COMING SOON</a>
 ---
