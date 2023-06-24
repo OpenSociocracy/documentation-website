@@ -15,4 +15,4 @@ A lot of it depends on how you define `scale`. [This video](https://www.youtube.
 
 ## Where can I get help?
 
-We realize our [sociocracy quick starts](/quick-start/) and [web app](https://logbook.opensociocracy.org) aren't always enough. For those situations the community has a variety of [consulting services](/resources/sociocracy-consulting-services/). 
+We realize our [sociocracy quick starts](/quick-start/) and [web app](https://www.ultri.com/logbook) aren't always enough. For those situations the community has a variety of [consulting services](/resources/sociocracy-consulting-services/). 

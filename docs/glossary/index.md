@@ -75,4 +75,4 @@ The virtual facilitator built into the platform, performs some of the same funct
 
 ## Webapp
 
-The app currently residing at [https://logbook.opensociocracy.org/](https://logbook.opensociocracy.org/). It is the frontend component of the platform.
+The app currently residing at [https://www.ultri.com/logbook/](https://www.ultri.com/logbook/). It is the frontend component of the platform.
