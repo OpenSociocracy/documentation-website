@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "OpenSociocracy"
   text: "A pragmatic approach to sociocracy"
-  tagline: "Using sociocracy to create sociocracy tools"
+  tagline: "A cooperative effort using sociocracy to create sociocracy tools"
   actions:
 
     - theme: brand
@@ -14,6 +14,10 @@ hero:
     - theme: alt
       text: Join Discord
       link: https://discord.gg/tG7sCar5
+    - theme: alt
+      text: Visit the Co-op
+      link: https://www.ultri.com
+
 
 features:
   - title: Open Source
