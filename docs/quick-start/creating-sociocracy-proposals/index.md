@@ -1,6 +1,6 @@
 # Create a Proposal 
 
-A proposal is the first step in reaching and informed consensus, inolving the team in the proposal process surfaces potential issues sooner. Team members can support a proposal better when they understand what was and wasn't included, and why.
+A proposal is the first step in reaching an informed consensus, and involving the team in the proposal process surfaces potential issues sooner. Team members can support a proposal better when they understand what was and wasn't included, and why.
 
 **Steps:**
 
