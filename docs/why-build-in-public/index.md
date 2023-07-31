@@ -4,4 +4,4 @@ We are not S3 experts, but we are development professionals with enough experise
 
 We'll share our pains and our success as we go along.
 
-Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/rZBBhKwe) to watch the sausage being made.
+Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/MSY9Yhss) to watch the sausage being made.
