@@ -4,4 +4,4 @@ We are not sociocracy experts, but we are development professionals with enough 
 
 We'll share our pains and our success as we go along.
 
-Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/MSY9Yhss) to watch the sausage being made.
+Follow us on [Twitter](https://twitter.com/OpenSociocracy), or join our [Discord](https://discord.gg/kSxMTVra) to watch the sausage being made.
