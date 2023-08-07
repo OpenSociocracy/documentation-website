@@ -50,7 +50,7 @@ export default defineConfig({
               text: "Code of Conduct",
               link: "https://github.com/OpenSociocracy/opensociocracy-platform/blob/main/CONTRIBUTING.md",
             },
-            { text: "Governance", link: "https://discord.gg/kSxMTVra" },
+            { text: "Governance", link: "https://discord.gg/jaJ3v6Zx" },
             {
               text: "Project Plan",
               link: "https://github.com/orgs/OpenSociocracy/projects/1",
@@ -208,7 +208,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/orgs/OpenSociocracy" },
-      // { icon: 'discord', link: 'https://discord.gg/kSxMTVra'},
+      // { icon: 'discord', link: 'https://discord.gg/jaJ3v6Zx'},
       { icon: "twitter", link: "https://twitter.com/OpenSociocracy" },
       { icon: "facebook", link: "https://www.facebook.com/OpenSociocracy/" },
       { icon: "mastodon", link: "https://fosstodon.org/@opensociocracy" },
